@@ -33,6 +33,7 @@ Park.prototype.visitorsYear = function () {
     let yearTotal = (total * 365)
     return yearTotal
 }
+
 // Park.prototype.removeDinosaurSpecies = function(species) {
 //   for (var dinosaur of this.dinosaurs)
 //     if (dinosaur.species === species)
